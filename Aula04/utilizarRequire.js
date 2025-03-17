@@ -1,0 +1,21 @@
+const dados = require('./dados.json');
+
+console.log(`---------------------------------------------------`);
+console.log("Produtos: \n");
+console.log("ID: " + dados.produtos[0].id);
+console.log("Nome: " + dados.produtos[0].nome);
+console.log("Preço: " + dados.produtos[0].preco);
+console.log("\n");
+console.log("ID: " + dados.produtos[1].id);
+console.log("Nome: " + dados.produtos[1].nome);
+console.log("Preço: " + dados.produtos[1].preco);
+console.log(`---------------------------------------------------`);
+console.log("Usuários: \n");
+console.log("ID: " + dados.usuarios[0].id);
+console.log("Nome: " + dados.usuarios[0].nome);
+console.log("Email: " + dados.usuarios[0].email);
+console.log("\n");
+console.log("ID: " + dados.usuarios[1].id);
+console.log("Nome: " + dados.usuarios[1].nome);
+console.log("Email: " + dados.usuarios[1].email);
+console.log(`---------------------------------------------------`);
