@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nome": "Cachorro",
+        "especie": "Canis lupus familiaris",
+        "idade": 10
+    },
+    {
+        "id": 2,
+        "nome": "Gato",
+        "especie": "Felis catus",
+        "idade": 5
+    },
+    {
+        "id": 3,
+        "nome": "Papagaio",
+        "especie": "Ara",
+        "idade": 3
+    },
+    {
+        "id": 4,
+        "nome": "Peixe",
+        "especie": "Carassius auratus",
+        "idade": 1
+    }
+]

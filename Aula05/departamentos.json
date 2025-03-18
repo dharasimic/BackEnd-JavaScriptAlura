@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nome": "TI",
+        "funcionarios": [
+            {
+                "id": 101,
+                "nome": "João",
+                "cargo": "Analista de Sistemas"
+            },
+            {
+                "id": 102,
+                "nome": "Maria",
+                "cargo": "Programador"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "RH",
+        "funcionarios": [
+            {
+                "id": 201,
+                "nome": "José",
+                "cargo": "Analista de RH"
+            },
+            {
+                "id": 202,
+                "nome": "Ana",
+                "cargo": "Assistente de RH"
+            }
+        ]
+    }
+]

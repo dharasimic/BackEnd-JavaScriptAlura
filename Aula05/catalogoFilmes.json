@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "titulo": "Bastardos Inglórios",
+        "diretor": "Quentin Tarantino",
+        "anoLancamento": 2009
+    },
+    {
+        "id": 2,
+        "titulo": "Jojo Rabbit",
+        "diretor": "Taika Waititi",
+        "anoLancamento": 2019
+    },
+    {
+        "id": 3,
+        "titulo": "Interstellar",
+        "diretor": "Christopher Nolan",
+        "anoLancamento": 2014
+    },
+    {
+        "id": 4,
+        "titulo": "Coraline",
+        "diretor": "Henry Selick",
+        "anoLancamento": 2009
+    },
+    {
+        "id": 5,
+        "titulo": "Drive",
+        "diretor": "Nicolas Winding Refn",
+        "anoLancamento": 2011
+    }
+]
