@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "titulo": "A Mansão Hollow",
+        "autor": "Agatha Christie",
+        "anoPublicacao": 1946
+    },
+    {
+        "id": 2,
+        "titulo": "O Caso dos Dez Negrinhos",
+        "autor": "Agatha Christie",
+        "anoPublicacao": 1939
+    },
+    {
+        "id": 3,
+        "titulo": "O Assassinato de Roger Ackroyd",
+        "autor": "Agatha Christie",
+        "anoPublicacao": 1926
+    },
+    {
+        "id": 4,
+        "titulo": "Assassinato no Expresso Oriente",
+        "autor": "Agatha Christie",
+        "anoPublicacao": 1934
+    },
+    {
+        "id": 5,
+        "titulo": "Cai o Pano",
+        "autor": "Agatha Christie",
+        "anoPublicacao": 1975
+    },
+    {
+        "id": 6,
+        "titulo": "O Misterioso Caso de Styles",
+        "autor": "Agatha Christie",
+        "anoPublicacao": 1920
+    }
+]
